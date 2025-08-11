@@ -20,7 +20,7 @@ Successfully captured and analyzed network packets, identified multiple protocol
 ### 1. HTTP (Hypertext Transfer Protocol) : Application layer protocol for transferring web pages and data between browsers and web servers.
 ![http](http.png)
 - **Packets Analyzed:** 12 HTTP requests/responses
-- **Critical Finding:** Unencrypted sensitive data transmission
+  
 
 ### 2. DNS (Domain Name System) : System that translates human-readable domain names (like google.com) into IP addresses that computers use.
 ![dns](dns.png)
