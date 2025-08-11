@@ -25,7 +25,7 @@ Successfully captured and analyzed network packets, identified multiple protocol
 ### 2. DNS (Domain Name System) : System that translates human-readable domain names (like google.com) into IP addresses that computers use.
 ![dns](dns.png)
 - **Packets Analyzed:** 10 DNS queries/response
-- **DNS Server:** 192.168.171.2
+- **DNS Server:** 192.168.1.254
 - **Average Response Time:** 6ms
 
 ### 3. ARP (Address Resolution Protocol) : Protocol that maps IP addresses to physical MAC addresses on local network segments.
